@@ -1,4 +1,4 @@
 # Chalkboard
 ## Name of collaborator
--Gagandeep singh
+-Gagandeep singh <br>
 -Gursharn singh
