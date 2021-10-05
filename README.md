@@ -20,7 +20,7 @@ Gagandeep Singh: In this first assignemt D0; I learned the first step to develop
  <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Assignment%20View%20%23student.png" ><br>
  
  
-##Admin View <br>
+## Admin View <br>
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Admin%20View.png" ><br>
 
 
