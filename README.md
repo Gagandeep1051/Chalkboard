@@ -3,23 +3,24 @@
 -Gagandeep singh <br>
 -Gursharn singh
 <hr>
+## Individual contributions
+####Gagandeep Singh:
 
 # Wireframe
-
-### Home/landing Page<br> 
+## Home/landing Page<br> 
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Home:Landing%20Page.png" ><br>
 
-### Student View<br>
+## Student View<br>
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Student%20View.png"><br>
 
-### Course View for student<br>
+## Course View for student<br>
 <img src ="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Course%20View%20%23student.png" ><br>
 
-### Assignment View <br>
+## Assignment View <br>
  <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Assignment%20View%20%23student.png" ><br>
  
  
-###Admin View <br>
+##Admin View <br>
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Admin%20View.png" ><br>
 
 
