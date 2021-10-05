@@ -7,4 +7,4 @@
 #Wireframe
 
 Admin View 
-<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Homepage:landing%20Page.pdf" width=250><br>
+<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Screen%20Shot%202021-10-04%20at%2010.07.57%20PM.png" width=250><br>
