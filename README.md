@@ -3,8 +3,8 @@
 -Gagandeep singh <br>
 -Gursharn singh
 <hr>
-## Individual contributions
-####Gagandeep Singh:
+## Individual contributions<br>
+#### Gagandeep Singh:
 
 # Wireframe
 ## Home/landing Page<br> 
