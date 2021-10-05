@@ -10,7 +10,7 @@ Gursharn singh:
 
 # Wireframe
 ## Home/landing Page<br> 
-<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Home:Landing%20Page.png" ><br>
+<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Home:Landing%20Page.png" width 20px ><br>
 
 ## Student View<br>
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/Wireframe/Student%20View.png"><br>
