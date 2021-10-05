@@ -4,7 +4,7 @@
 -Gursharn singh
 
 ## Individual contributions <br>
-#### Gagandeep Singh:
+Gagandeep Singh: In this first assignemt D0; I learned the first step to developing a web page, which is drawing out the layouts of the webpage. In this assignement me and my partner worked together on creating the wireframes(layouts) of our web page Chalkboard by hand. We got to talk about how we should go about making this webpage and what it should and shouldn't have. 
 
 # Wireframe
 ## Home/landing Page<br> 
