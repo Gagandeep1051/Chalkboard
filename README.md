@@ -2,8 +2,8 @@
 ## Name of collaborator
 -Gagandeep singh <br>
 -Gursharn singh
-<hr>
-## Individual contributions<br>
+
+## Individual contributions <br>
 #### Gagandeep Singh:
 
 # Wireframe
