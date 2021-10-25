@@ -36,7 +36,7 @@ Gursharn Singh: In Deliverable 0, I learned how to make layout designs for how I
 <img width="984" alt="Screen Shot 2021-10-05 at 8 02 53 PM" src="https://user-images.githubusercontent.com/42221223/136120117-71fde4ba-8fd6-462c-94d1-611097458d76.png" width=250px> <br>
 
 ## Instructor Assignment View <br>
-<img width="970" alt="Screen Shot 2021-10-05 at 8 03 12 PM" src="https://user-images.githubusercontent.com/42221223/136120145-da5377c2-eb9e-4599-9bb3-1f4751e94ba1.png"width=250px > <br>
+<img width="970" alt="Screen Shot 2021-10-05 at 8 03 12 PM" src="https://user-images.githubusercontent.com/42221223/136120145-da5377c2-eb9e-4599-9bb3-1f4751e94ba1.png" width=250px > <br>
 
 ## Site Map <br>
 <img width="948" alt="Screen Shot 2021-10-05 at 8 04 00 PM" src="https://user-images.githubusercontent.com/42221223/136120210-75df2f05-322c-438a-a702-67ebbbb8754c.png" width=250px> <br>
