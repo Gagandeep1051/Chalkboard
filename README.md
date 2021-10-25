@@ -27,7 +27,7 @@ Gursharn Singh: In Deliverable 0, I learned how to make layout designs for how I
 
 ## Login and Create Account View<br>
 
-<img width="607" alt="Screen Shot 2021-10-05 at 7 58 42 PM" src="https://user-images.githubusercontent.com/42221223/136119818-9018605f-b5ea-427d-89c7-fd3add80ae04.png" width=250px >
+<img width="607" alt="Screen Shot 2021-10-05 at 7 58 42 PM" src="https://user-images.githubusercontent.com/42221223/136119818-9018605f-b5ea-427d-89c7-fd3add80ae04.png" height=250px >
 
 ## Instructor Home View <br>
 <img width="983" alt="Screen Shot 2021-10-05 at 8 02 17 PM" src="https://user-images.githubusercontent.com/42221223/136120068-a5acd219-749e-40bf-9e83-edede7e155da.png" width=250px >
