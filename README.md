@@ -11,7 +11,9 @@ Gagandeep Singh: In this first assignemt D0; I learned the first step to develop
 Gursharn Singh: In Deliverable 0, I learned how to make layout designs for how I want Chalkboard to look, furthermore the wireframes are going to help us both out when we start coding the project. We both discussed how we want each page to look and constructed a site map after drawing the wireframe.
 
 # Deliverable 1 Html 
-<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/Screen%20Shot%202021-10-25%20at%2010.44.42%20PM.png"> 
+<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/Screen%20Shot%202021-10-25%20at%2010.44.42%20PM.png">
+<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/Screen%20Shot%202021-10-25%20at%2010.44.52%20PM.png">
+<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/Screen%20Shot%202021-10-25%20at%2010.44.59%20PM.png">
 
 
 
