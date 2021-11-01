@@ -6,7 +6,7 @@
 -Gursharn Singh
 
 ## Individual contributions <br>
-Gagandeep Singh: In this first assignemt D0; I learned the first step to developing a web page, which is drawing out the layouts of the webpage. In this assignement me and my partner worked together on creating the wireframes(layouts) of our web page Chalkboard by hand. We got to talk about how we should go about making this webpage and what it should and shouldn't have. 
+Gagandeep Singh: In this assignemt D1: I made the the wireframes for home, student view, assignemnt view, course view in HTML. This assignemnt really helped me better understand how important <div>'s are and how they can be used. 
 
 Gursharn Singh: In Deliverable 0, I learned how to make layout designs for how I want Chalkboard to look, furthermore the wireframes are going to help us both out when we start coding the project. We both discussed how we want each page to look and constructed a site map after drawing the wireframe.
 
