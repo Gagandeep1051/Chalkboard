@@ -14,6 +14,8 @@ Gursharn Singh: In Deliverable 0, I learned how to make layout designs for how I
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/Screen%20Shot%202021-10-25%20at%2010.44.42%20PM.png">
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/Screen%20Shot%202021-10-25%20at%2010.44.52%20PM.png">
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/Screen%20Shot%202021-10-25%20at%2010.44.59%20PM.png">
+<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/Screen%20Shot%202021-11-01%20at%209.24.31%20AM.png">
+
 
 
 
