@@ -32,8 +32,18 @@ Gursharn Singh: In Deliverable 0, I learned how to make layout designs for how I
 ## Roster View <br>
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/roaster.png">
 
+## Instructor Home View
+<img width="1252" alt="Screen Shot 2021-11-03 at 12 16 31 AM" src="https://user-images.githubusercontent.com/42221223/140009373-43414417-9f38-485c-9cad-bca42b4278c6.png">
 
+## Instructor Course View
+<img width="1108" alt="Screen Shot 2021-11-03 at 12 17 05 AM" src="https://user-images.githubusercontent.com/42221223/140009404-5a957174-3999-451e-8dc1-3e5e3578b79e.png">
 
+## Login Page
+<img width="498" alt="Screen Shot 2021-11-03 at 12 17 36 AM" src="https://user-images.githubusercontent.com/42221223/140009435-6833cf0d-c8cf-4bbf-b5a1-9356821e67d1.png">
+## Sign Up Page
+<img width="1015" alt="Screen Shot 2021-11-03 at 12 18 10 AM" src="https://user-images.githubusercontent.com/42221223/140009465-e5ddca16-24f8-42a0-b8dc-24559c1f6ca4.png">
+## Create Assignment Page
+<img width="725" alt="Screen Shot 2021-11-03 at 12 18 39 AM" src="https://user-images.githubusercontent.com/42221223/140009482-f7688cbc-b58a-4814-9f8a-702e4fe84115.png">
 
 
 
