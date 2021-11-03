@@ -8,7 +8,7 @@
 ## Individual contributions <br>
 Gagandeep Singh: In this assignemt D1: I made the the wireframes for home, student view, assignemnt view, course view in HTML. This assignemnt really helped me better understand how important div's are and how they can be used. 
 
-Gursharn Singh: In Deliverable 0, I learned how to make layout designs for how I want Chalkboard to look, furthermore the wireframes are going to help us both out when we start coding the project. We both discussed how we want each page to look and constructed a site map after drawing the wireframe.
+Gursharn Singh: In Deliverable 1, I made the Instructor aspect of the web application along with the sign up and login page.
 
 # Deliverable 1 Html 
 ## Home page 
@@ -32,17 +32,17 @@ Gursharn Singh: In Deliverable 0, I learned how to make layout designs for how I
 ## Roster View <br>
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/roaster.png">
 
-## Instructor Home View
+## Instructor Home View <br>
 <img width="1252" alt="Screen Shot 2021-11-03 at 12 16 31 AM" src="https://user-images.githubusercontent.com/42221223/140009373-43414417-9f38-485c-9cad-bca42b4278c6.png">
 
-## Instructor Course View
+## Instructor Course View <br>
 <img width="1108" alt="Screen Shot 2021-11-03 at 12 17 05 AM" src="https://user-images.githubusercontent.com/42221223/140009404-5a957174-3999-451e-8dc1-3e5e3578b79e.png">
 
-## Login Page
+## Login Page <br>
 <img width="498" alt="Screen Shot 2021-11-03 at 12 17 36 AM" src="https://user-images.githubusercontent.com/42221223/140009435-6833cf0d-c8cf-4bbf-b5a1-9356821e67d1.png">
-## Sign Up Page
+## Sign Up<br>
 <img width="1015" alt="Screen Shot 2021-11-03 at 12 18 10 AM" src="https://user-images.githubusercontent.com/42221223/140009465-e5ddca16-24f8-42a0-b8dc-24559c1f6ca4.png">
-## Create Assignment Page
+## Create Assignment <br>
 <img width="725" alt="Screen Shot 2021-11-03 at 12 18 39 AM" src="https://user-images.githubusercontent.com/42221223/140009482-f7688cbc-b58a-4814-9f8a-702e4fe84115.png">
 
 
