@@ -26,6 +26,11 @@ Gursharn Singh: In Deliverable 0, I learned how to make layout designs for how I
 ## Course View Student <br>
 <img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/Screen%20Shot%202021-11-01%20at%209.29.24%20AM.png">
 
+## Admin view <br>
+<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/AdminView.png">
+
+## Roster View <br>
+<img src="https://github.com/Gagandeep1051/Chalkboard/blob/main/png%20file/roaster.png">
 
 
 
