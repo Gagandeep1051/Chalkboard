@@ -1,0 +1,102 @@
+/*heading */
+.head{
+    background: blue;
+    text-align: Center;
+    color: antiquewhite;
+    padding-top: 20px;
+}
+/* Add a black background color to the top navigation */
+.nav{
+    padding:10px;
+    margin: 10px;
+    height: auto;
+}
+/* Style the links inside the navigation bar */
+.nav a {
+    text-align: center;
+    margin: 50pt;
+    padding: 14px 20px;
+    font-size: 15px;
+}
+/* Change the color of links on hover */
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+    height: 10px;
+    
+}
+/* Add an active class to highlight the current page */
+.nav a.active {
+    background-color: gray;
+    color: white;
+}
+/* Mission Statement */
+.MisStat {
+    width: 200px;
+    border: 5px groove black;
+    padding: 10px;
+    margin: 10px;
+}
+.HStatement{
+    font-weight: bolder;
+    position: relative;
+    margin-bottom: 0;
+}
+.pStatement{
+    text-align: left;
+    position: relative;
+    display:flex;
+    inline-size: 200px;
+    overflow: hidden;
+}
+.img{
+    width: 300px;
+}
+.img img{
+    float: contour;
+    position: relative;
+    top:-420px;
+    margin-left: 300px;
+    margin-top: 10px;
+    width: 600px;
+    height: 400px;
+  
+}
+.AboutStat{
+    width: 250px;
+    border: 5px groove black;
+    padding: 10px;
+    float: contour;
+    position: relative;
+    top:-830px;
+    margin-left: 950px;
+    margin-top: 10px;
+    overflow: auto;
+    max-height: 80vh;
+  
+
+}
+.ListCourse{
+  width: 250px;
+    border: 5px groove black;
+    padding: 10px;
+    float: contour;
+    position: relative;
+    top:-1050px;
+    margin-top: 10px;
+}
+.events{
+    width: 500px;
+    border: 5px groove black;
+    padding: 10px;
+    float: contour;
+    position: relative;
+    top:-1000px;
+
+}
+.btnav{
+  text-align: Center;
+    background: antiquewhite;
+    padding-top: 20px;
+
+}
