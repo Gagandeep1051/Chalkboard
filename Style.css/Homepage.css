@@ -1,9 +1,22 @@
+
 /*heading */
+html, body{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  background-color: aliceblue;
+}
 .head{
-    background: blue;
+    background: #f24c4c;
     text-align: Center;
     color: antiquewhite;
     padding-top: 20px;
+    padding-bottom: 5px;
+    background-size: cover;
+    
+    
 }
 /* Add a black background color to the top navigation */
 .nav{
@@ -12,82 +25,90 @@
     height: auto;
 }
 /* Style the links inside the navigation bar */
-.nav a {
-    text-align: center;
-    margin: 50pt;
-    padding: 14px 20px;
-    font-size: 15px;
+nav .Homebutton{
+  background: rgb(0, 0, 0);
+  border-radius: 999px;
+  box-shadow: #5E5DF0 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
 }
-/* Change the color of links on hover */
-nav a:hover {
-    background-color: #ddd;
-    color: black;
-    height: 10px;
-    
+nav a{
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
 }
-/* Add an active class to highlight the current page */
-.nav a.active {
-    background-color: gray;
-    color: white;
-}
+
 /* Mission Statement */
 .MisStat {
-    width: 200px;
-    border: 5px groove black;
-    padding: 10px;
-    margin: 10px;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
 }
-.HStatement{
+.StateHead{
     font-weight: bolder;
     position: relative;
-    margin-bottom: 0;
+    text-align: left; 
 }
+
 .pStatement{
-    text-align: left;
+    
     position: relative;
     display:flex;
     inline-size: 200px;
-    overflow: hidden;
+    
 }
 .img{
-    width: 300px;
-}
-.img img{
-    float: contour;
-    position: relative;
-    top:-420px;
-    margin-left: 300px;
-    margin-top: 10px;
-    width: 600px;
+    border-radius: 50%;
+    width: 400px;
     height: 400px;
+    display: block;
+    flex-direction: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -360px;
+    
   
 }
-.AboutStat{
+    
+.BoxAbout{
     width: 250px;
-    border: 5px groove black;
     padding: 10px;
     float: contour;
     position: relative;
-    top:-830px;
+    top:-860px;
     margin-left: 950px;
     margin-top: 10px;
     overflow: auto;
     max-height: 80vh;
   
 
-}
+} 
+
 .ListCourse{
-  width: 250px;
-    border: 5px groove black;
+    width: 250px;
     padding: 10px;
-    float: contour;
+    float: center;
     position: relative;
     top:-1050px;
     margin-top: 10px;
 }
 .events{
     width: 500px;
-    border: 5px groove black;
     padding: 10px;
     float: contour;
     position: relative;
@@ -96,7 +117,6 @@ nav a:hover {
 }
 .btnav{
   text-align: Center;
-    background: antiquewhite;
     padding-top: 20px;
 
 }
