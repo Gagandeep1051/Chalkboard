@@ -7,19 +7,19 @@
                                         <!--heading-->
 <h1>Kings College</h1>
 <h3>Student Chalkboard</h3>
+<img src="../png/Logo.png" alt="Logo" height="200" width="150"> 
 <hr>
 <body>
                                             <!--nav bar-->
 <nav>
-    <a>My courses</a>
-    <a>Announcements</a>
-    <a>Available Courses</a>
-    <a>Student Name</a>
-    <a>Menu</a>
+    <a href="#MyClass">My courses</a>
+    <a href="#announcement">Announcement</a>
+    <a href="#ListCourse">Available Courses</a>
+    <a href="StudentLogin.html">sign out </a>
 </nav>
 <hr>
 <!--                                            list of courses available-->
-<h3>List of Available courses</h3>
+<h3 class="ListCourse">List of Available courses</h3>
 <input type="text" placeholder="Search course name">
 <ol>
     <li>C++  CS100</li>
@@ -50,17 +50,19 @@
     <button>Join</button>
 </ol>
 <!--                                            student courses-->
-<h3>Courses where you are: Student</h3>
+<h3 class="MyClass">Courses where you are: Student</h3>
 <input type="text" placeholder="Search course name">
 <li>C++  CS100</li>
 <div>
     <i>Professor name</i>
     <i>Class time</i>
+    <button type="Assigment"><a href="AssignmentView_Student.html">Assignment</a></button>
 </div>
 <li> Java CS200</li>
 <div>
     <i>Professor name</i>
     <i>Class time</i>
+    <button type="Assigment"><a href="AssignmentView_Student.html">Assignment</a></button>
 </div>
 
 
@@ -68,6 +70,7 @@
 <div>
     <i>Professor name</i>
     <i>Class time</i>
+    <button type="Assigment"><a href="AssignmentView_Student.html">Assignment</a></button>
 </div>
 
 
@@ -75,8 +78,11 @@
 <div>
     <i>Professor name</i>
     <i>Class time</i>
+    <button type="Assigment"><a href="AssignmentView_Student.html">Assignment</a></button>
 </div>
-
+ <div>
+   <h3 class="announcement"> Announcement </h3>
+ </div>
 
 
 
